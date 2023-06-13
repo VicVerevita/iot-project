@@ -1,6 +1,5 @@
-# project_frontend
-
-A new Flutter project.
+# University Project for the IoT Course.
+### This is just the front-end made in Flutter
 
 ## Getting Started
 
